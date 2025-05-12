@@ -2,5 +2,17 @@
 
 ## Second order equation solver
 
-To build, run `make clean all`.  
-To run the code, run `./solver`
+Build:
+```bash
+make ex01
+```
+
+Run:
+```bash
+ex01*/main
+```
+
+Clean:
+```bash
+make clean
+```
